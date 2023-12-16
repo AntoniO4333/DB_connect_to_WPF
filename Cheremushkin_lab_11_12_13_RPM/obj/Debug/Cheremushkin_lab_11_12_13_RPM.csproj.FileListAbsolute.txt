@@ -1,0 +1,17 @@
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\bin\Debug\Cheremushkin_lab_11_12_13_RPM.exe.config
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\bin\Debug\Cheremushkin_lab_11_12_13_RPM.exe
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\bin\Debug\Cheremushkin_lab_11_12_13_RPM.pdb
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.csproj.AssemblyReference.cache
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\ConnectionForm.baml
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\ConnectionForm.g.cs
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\MainWindow.g.cs
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\App.g.cs
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM_MarkupCompile.cache
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM_MarkupCompile.lref
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\MainWindow.baml
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.g.resources
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.Properties.Resources.resources
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.csproj.GenerateResource.cache
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.csproj.CoreCompileInputs.cache
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.exe
+C:\Users\anton\cs_projects\Cheremushkin_lab_11_12_13_RPM\obj\Debug\Cheremushkin_lab_11_12_13_RPM.pdb

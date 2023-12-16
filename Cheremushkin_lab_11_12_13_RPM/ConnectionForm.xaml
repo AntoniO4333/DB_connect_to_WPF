@@ -1,0 +1,9 @@
+﻿<Window x:Class="Cheremushkin_lab_11_12_13_RPM.ConnectionForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="ConnectionForm" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button Content="Подключение" HorizontalAlignment="Center" VerticalAlignment="Center" Click="ConnectionBtn_Click" Height="55" Width="161" FontSize="20"/>
+    </Grid>
+</Window>
+

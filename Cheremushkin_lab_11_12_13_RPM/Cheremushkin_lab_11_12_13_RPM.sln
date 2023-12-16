@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cheremushkin_lab_11_12_13_RPM", "Cheremushkin_lab_11_12_13_RPM.csproj", "{BC18733A-9210-4B68-868C-2FD5DCC52A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC18733A-9210-4B68-868C-2FD5DCC52A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC18733A-9210-4B68-868C-2FD5DCC52A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC18733A-9210-4B68-868C-2FD5DCC52A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC18733A-9210-4B68-868C-2FD5DCC52A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6E7B7F4-D454-4B34-8E6D-DC0EFB1BF5A3}
+	EndGlobalSection
+EndGlobal
